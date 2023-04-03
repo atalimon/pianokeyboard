@@ -130,6 +130,7 @@ button#blackf {
 }
 
 h1 {
+    font-size: 3vw;
     background-color: transparent;
     align-items: center;
     color: wheat;
@@ -138,7 +139,7 @@ h1 {
 }
 h2 {
     position: absolute;
-    font-size: 50px;
+    font-size: 3vw;
     background-color: transparent;
     align-items: center;
     color: wheat;
